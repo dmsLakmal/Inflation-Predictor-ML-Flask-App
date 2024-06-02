@@ -61,7 +61,7 @@ To set up and run the Inflation Predictor ML Flask Web App, follow these steps:
 ## Conclusion
 This project presents a basic machine learning model for predicting the inflation rate, implemented as a prototype using Flask. While it demonstrates the potential of using economic indicators such as GDP and the unemployment rate for forecasting inflation, it is not accurate enough for real-world applications. To predict the actual inflation rate with higher accuracy, more comprehensive data and a more sophisticated model would be required. This prototype serves as a foundational step towards developing a robust inflation prediction tool, highlighting the need for further data collection and model refinement.
 
-## Accessing the Model Creation Repository
+## Accessing the Model Repository
 
 For those interested in the model creation aspect of this project, you can access the repository containing the model creation code and assets using the following 
 link: [Inflation Predictor Model Repository](https://github.com/dmsLakmal/InflationPredictorModel.git).
